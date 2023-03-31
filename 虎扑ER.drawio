@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:39:12.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="Vw5QfMxI-U7lRTSQv9Tg" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:40:11.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="KP8Rq0CgqhsXo6mpJzrw" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="737" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="795" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,16 +25,16 @@
         <mxCell id="wrQ4-ztU9vicz67Ey5sr-7" value="点灭" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-1" value="发(帖子)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-1" value="发(帖子)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-2" value="队伍" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-2" value="队伍" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-3" value="队员" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-3" value="队员" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="570" y="380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-4" value="比赛" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-4" value="比赛" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="340" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e7WeAsmQSXkFFaa9NxT0-1" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="-y-U_EyUOc9RIvDM-5Ky-8" value="发(私信)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-y-U_EyUOc9RIvDM-5Ky-9" value="收(私信)" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="65" y="310" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e7WeAsmQSXkFFaa9NxT0-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-y-U_EyUOc9RIvDM-5Ky-2" target="e7WeAsmQSXkFFaa9NxT0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
