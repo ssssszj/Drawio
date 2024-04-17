@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T12:02:52.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="nFCOdvK7g9nmF2EugO2d" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T12:07:14.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="mz35dr8rrdKIapWLgcPr" version="24.2.5" type="github">
   <diagram name="第 1 页" id="yCbP_b8fFSZPrmZ-ZYuP">
     <mxGraphModel dx="1173" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XP7sZToUmPjcMGQkkHXA-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" width="560" height="560" as="geometry" />
+        </mxCell>
         <mxCell id="XP7sZToUmPjcMGQkkHXA-1" value="患者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="120" y="240" width="60" height="120" as="geometry" />
         </mxCell>
