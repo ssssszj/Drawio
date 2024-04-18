@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T08:03:58.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="uhgG0F_2_aMU0QSGpaDb" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T08:07:55.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="9WO0TODa7PYUOqzfN9Tc" version="24.2.5" type="github">
   <diagram name="第 1 页" id="9FuAQy3JTvqWWIftWs33">
-    <mxGraphModel dx="2403" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="ichc71M4sZUzO8VB6wK0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="80" width="1100" height="1260" as="geometry" />
         </mxCell>
-        <mxCell id="ichc71M4sZUzO8VB6wK0-2" value="医生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="ichc71M4sZUzO8VB6wK0-2" value="医护" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="200" y="570" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ichc71M4sZUzO8VB6wK0-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ichc71M4sZUzO8VB6wK0-2" target="ichc71M4sZUzO8VB6wK0-6" edge="1">
@@ -430,7 +430,7 @@
         <mxCell id="Dv5TJq5iVcI1r37ffcYd-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Dv5TJq5iVcI1r37ffcYd-28">
           <mxGeometry width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Dv5TJq5iVcI1r37ffcYd-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;扫描医护二维码&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dv5TJq5iVcI1r37ffcYd-28">
+        <mxCell id="Dv5TJq5iVcI1r37ffcYd-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;扫描患者二维码&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Dv5TJq5iVcI1r37ffcYd-28">
           <mxGeometry x="14.379999999999999" y="21.869999999999997" width="121.25" height="26.25" as="geometry" />
         </mxCell>
         <mxCell id="Dv5TJq5iVcI1r37ffcYd-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Dv5TJq5iVcI1r37ffcYd-29" source="Dv5TJq5iVcI1r37ffcYd-15">
