@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T00:41:20.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="wopXXHxQyiTR5FjHbEwn" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T00:46:28.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Dpcx2pGXPZwB95o8ehWI" version="24.2.5" type="github">
   <diagram name="第 1 页" id="vSMtF_dreAP6zfrNmIUE">
     <mxGraphModel dx="841" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="NvbOZmVKaPxZ20kv9yKY-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="122.5" y="550" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvbOZmVKaPxZ20kv9yKY-4" value="用户身份验证" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NvbOZmVKaPxZ20kv9yKY-4" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="72.5" y="160" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NvbOZmVKaPxZ20kv9yKY-5" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NvbOZmVKaPxZ20kv9yKY-4" target="NvbOZmVKaPxZ20kv9yKY-7" edge="1">
@@ -27,7 +27,10 @@
             <mxPoint x="320" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvbOZmVKaPxZ20kv9yKY-7" value="是否为患者" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b3HT5cBRWuFyJt1h8gsF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvbOZmVKaPxZ20kv9yKY-7" target="NvbOZmVKaPxZ20kv9yKY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvbOZmVKaPxZ20kv9yKY-7" value="验证用户身份" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="72.5" y="270" width="127.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NvbOZmVKaPxZ20kv9yKY-9" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="NvbOZmVKaPxZ20kv9yKY-11" edge="1">
@@ -36,7 +39,7 @@
             <mxPoint x="170" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvbOZmVKaPxZ20kv9yKY-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NvbOZmVKaPxZ20kv9yKY-9" vertex="1" connectable="0">
+        <mxCell id="NvbOZmVKaPxZ20kv9yKY-10" value="患者" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NvbOZmVKaPxZ20kv9yKY-9" vertex="1" connectable="0">
           <mxGeometry x="0.003" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -56,7 +59,7 @@
             <mxPoint x="270" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NvbOZmVKaPxZ20kv9yKY-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NvbOZmVKaPxZ20kv9yKY-13" vertex="1" connectable="0">
+        <mxCell id="NvbOZmVKaPxZ20kv9yKY-14" value="医护" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NvbOZmVKaPxZ20kv9yKY-13" vertex="1" connectable="0">
           <mxGeometry x="0.003" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
